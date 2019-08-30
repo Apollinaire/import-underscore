@@ -1,8 +1,17 @@
 {
     "name": "import-underscore",
-    "displayName": "import underscore",
-    "description": "A snippet to import underscore",
-    "version": "0.0.1",
+    "displayName": "Import underscore",
+    "description": "Two code snippets to import underscore",
+    "icon": "images/icon.png",
+    "publisher": "Apollinaire",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/Apollinaire/import-underscore"
+    },
+    "galleryBanner": {
+      "theme": "light"
+    },
+    "version": "1.0.0",
     "engines": {
         "vscode": "^1.37.0"
     },

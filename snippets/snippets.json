@@ -2,11 +2,11 @@
   "importUnderscore": {
     "prefix": "imu",
     "body": "import _ from 'underscore';",
-    "description": "Imports underscore"
+    "description": " "
   },
   "import_": {
     "prefix": "im_",
     "body": "import _ from 'underscore';",
-    "description": "Imports underscore"
+    "description": " "
   }
 }
