@@ -1,6 +1,6 @@
 # import-underscore
 
-Snippets to add `import _ from 'underscore;'`.
+Snippets to add `import _ from 'underscore';`.
 
 ## Snippets
 
